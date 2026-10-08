@@ -1,0 +1,2 @@
+-- Chạy trên database mặc định (postgres) nếu chưa có DB HQTCSDL.
+-- CREATE DATABASE "HQTCSDL" ENCODING 'UTF8';
